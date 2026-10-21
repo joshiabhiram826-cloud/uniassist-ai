@@ -35,7 +35,7 @@ Key Objectives
 
 Project Presentation
 
-See "SYNAPSE_AI_UniAssist_Hackathon_Presentation.pptx" in this repository.
+PPT https://docs.google.com/presentation/d/1_b_5JzLi9sCDi2W4z3psZLwVkgGGuqyG/edit?usp=drivesdk&ouid=102367197180732849476&rtpof=true&sd=true
 
 Future Scope
 
